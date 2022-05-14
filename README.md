@@ -13,4 +13,4 @@ To run the code, we need to change the path of the folder.
 * Master_file2 contents the the data of N-wave and solitary wave.
 * Master_file3 contents the the data of wave group.
 
-The Wavemaker folder contains wavemaker codes for various wave shapes. In both the experiment and the simulation, the codes were used to generate waves. Furthermore, the figures folder includes the plot and figures used in the thesis.
+The wavemaker folder contains wavemaker codes for various wave shapes. In both the experiment and the simulation, the codes were used to generate waves. Furthermore, the figures folder includes the plot and figures used in the thesis.
